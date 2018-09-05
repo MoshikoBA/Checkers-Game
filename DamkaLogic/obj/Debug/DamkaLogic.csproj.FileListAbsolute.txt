@@ -1,0 +1,5 @@
+C:\לימודים סמסטר ב\C#\תרגיל 5\B18 Ex05 Moshe 308248129 Daniel 204331623\DamkaLogic\bin\Debug\DamkaLogic.dll
+C:\לימודים סמסטר ב\C#\תרגיל 5\B18 Ex05 Moshe 308248129 Daniel 204331623\DamkaLogic\bin\Debug\DamkaLogic.pdb
+C:\לימודים סמסטר ב\C#\תרגיל 5\B18 Ex05 Moshe 308248129 Daniel 204331623\DamkaLogic\obj\Debug\DamkaLogic.dll
+C:\לימודים סמסטר ב\C#\תרגיל 5\B18 Ex05 Moshe 308248129 Daniel 204331623\DamkaLogic\obj\Debug\DamkaLogic.pdb
+C:\לימודים סמסטר ב\C#\תרגיל 5\B18 Ex05 Moshe 308248129 Daniel 204331623\DamkaLogic\obj\Debug\DamkaLogic.csprojResolveAssemblyReference.cache

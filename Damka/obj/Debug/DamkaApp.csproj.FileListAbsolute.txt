@@ -1,0 +1,9 @@
+C:\לימודים סמסטר ב\C#\תרגיל 5\B18 Ex05 Moshe 308248129 Daniel 204331623\Damka\bin\Debug\Damka.exe
+C:\לימודים סמסטר ב\C#\תרגיל 5\B18 Ex05 Moshe 308248129 Daniel 204331623\Damka\bin\Debug\Damka.pdb
+C:\לימודים סמסטר ב\C#\תרגיל 5\B18 Ex05 Moshe 308248129 Daniel 204331623\Damka\obj\Debug\Damka.exe
+C:\לימודים סמסטר ב\C#\תרגיל 5\B18 Ex05 Moshe 308248129 Daniel 204331623\Damka\obj\Debug\Damka.pdb
+C:\לימודים סמסטר ב\C#\תרגיל 5\B18 Ex05 Moshe 308248129 Daniel 204331623\Damka\obj\Debug\DamkaApp.csprojResolveAssemblyReference.cache
+C:\לימודים סמסטר ב\C#\תרגיל 5\B18 Ex05 Moshe 308248129 Daniel 204331623\Damka\bin\Debug\DamkaLogic.dll
+C:\לימודים סמסטר ב\C#\תרגיל 5\B18 Ex05 Moshe 308248129 Daniel 204331623\Damka\bin\Debug\DamkaLogic.pdb
+C:\לימודים סמסטר ב\C#\תרגיל 5\B18 Ex05 Moshe 308248129 Daniel 204331623\Damka\obj\Debug\DamkaApp.Properties.Resources.resources
+C:\לימודים סמסטר ב\C#\תרגיל 5\B18 Ex05 Moshe 308248129 Daniel 204331623\Damka\obj\Debug\DamkaApp.csproj.GenerateResource.Cache
